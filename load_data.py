@@ -13,7 +13,8 @@ tables = {
     'patients': 'patients.csv',
     'appointments': 'appointments.csv',
     'providers': 'providers.csv',
-    'prescriptions': 'prescriptions.csv'
+    'prescriptions': 'prescriptions2.csv',
+    'categories': 'categories.csv'
 }
 
 def load_data():

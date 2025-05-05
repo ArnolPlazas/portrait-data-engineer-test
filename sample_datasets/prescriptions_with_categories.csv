@@ -1,0 +1,129 @@
+prescription_id,patient_id,medication_name,prescription_date,medication_category
+1,15,Ibuprofen,2023-04-07,Pain Relief
+2,8,Metformin,2023-01-24,Diabetes
+3,37,Lisinopril,2023-03-03,Heart
+4,23,Atorvastatin,2023-01-14,Heart
+5,24,Atorvastatin,2023-03-29,Heart
+6,21,Metformin,2023-03-08,Diabetes
+7,49,Amoxicillin,2023-03-04,Antibiotic
+8,36,Aspirin,2023-04-07,
+9,10,Lisinopril,2023-01-29,Heart
+10,33,Metformin,2023-03-18,Diabetes
+11,40,Aspirin,2023-02-10,
+12,45,Metformin,2023-02-17,Diabetes
+13,2,Ibuprofen,2023-01-15,Pain Relief
+14,34,Lisinopril,2023-03-20,Heart
+15,22,Aspirin,2023-02-07,
+16,44,Atorvastatin,2023-02-24,Heart
+17,34,Atorvastatin,2023-02-19,Heart
+18,40,Metformin,2023-01-05,Diabetes
+19,18,Atorvastatin,2023-03-30,Heart
+20,35,Metformin,2023-03-29,Diabetes
+21,35,Amoxicillin,2023-03-09,Antibiotic
+22,31,Metformin,2023-02-18,Diabetes
+23,36,Atorvastatin,2023-02-23,Heart
+24,37,Metformin,2023-02-03,Diabetes
+25,12,Aspirin,2023-01-07,
+26,2,Aspirin,2023-03-03,
+27,28,Atorvastatin,2023-03-27,Heart
+28,1,Amoxicillin,2023-03-26,Antibiotic
+29,22,Aspirin,2023-04-02,
+30,40,Aspirin,2023-01-20,
+31,25,Lisinopril,2023-03-01,Heart
+32,37,Aspirin,2023-03-26,
+33,27,Amoxicillin,2023-02-12,Antibiotic
+34,38,Amoxicillin,2023-02-13,Antibiotic
+35,30,Lisinopril,2023-04-03,Heart
+36,48,Ibuprofen,2023-02-07,Pain Relief
+37,41,Atorvastatin,2023-01-01,Heart
+38,40,Lisinopril,2023-04-08,Heart
+39,44,Atorvastatin,2023-02-13,Heart
+40,3,Ibuprofen,2023-03-31,Pain Relief
+41,12,Aspirin,2023-04-01,
+42,4,Lisinopril,2023-01-13,Heart
+43,49,Atorvastatin,2023-01-13,Heart
+44,1,Ibuprofen,2023-01-31,Pain Relief
+45,12,Metformin,2023-03-01,Diabetes
+46,34,Amoxicillin,2023-02-24,Antibiotic
+47,42,Atorvastatin,2023-01-24,Heart
+48,23,Amoxicillin,2023-03-19,Antibiotic
+49,13,Aspirin,2023-01-18,
+50,6,Amoxicillin,2023-02-21,Antibiotic
+51,45,Amoxicillin,2023-01-20,Antibiotic
+52,5,Amoxicillin,2023-02-14,Antibiotic
+53,1,Aspirin,2023-03-12,
+54,4,Aspirin,2023-01-24,
+55,26,Atorvastatin,2023-01-12,Heart
+56,44,Atorvastatin,2023-01-27,Heart
+57,23,Aspirin,2023-03-24,
+58,32,Metformin,2023-01-14,Diabetes
+59,43,Amoxicillin,2023-03-30,Antibiotic
+60,24,Lisinopril,2023-03-01,Heart
+61,30,Ibuprofen,2023-02-27,Pain Relief
+62,31,Atorvastatin,2023-03-27,Heart
+63,28,Lisinopril,2023-02-09,Heart
+64,40,Metformin,2023-01-16,Diabetes
+65,32,Atorvastatin,2023-03-07,Heart
+66,4,Aspirin,2023-01-13,
+67,43,Ibuprofen,2023-02-04,Pain Relief
+68,22,Lisinopril,2023-02-06,Heart
+69,8,Atorvastatin,2023-01-24,Heart
+70,4,Amoxicillin,2023-02-10,Antibiotic
+71,14,Lisinopril,2023-03-21,Heart
+72,34,Metformin,2023-03-14,Diabetes
+73,37,Metformin,2023-03-15,Diabetes
+74,39,Atorvastatin,2023-02-18,Heart
+75,8,Aspirin,2023-02-07,
+76,25,Amoxicillin,2023-01-24,Antibiotic
+77,39,Ibuprofen,2023-03-15,Pain Relief
+78,9,Metformin,2023-01-21,Diabetes
+79,17,Ibuprofen,2023-03-31,Pain Relief
+80,21,Aspirin,2023-02-02,
+81,28,Ibuprofen,2023-03-09,Pain Relief
+82,22,Atorvastatin,2023-02-16,Heart
+83,32,Aspirin,2023-01-14,
+84,26,Aspirin,2023-01-20,
+85,8,Ibuprofen,2023-02-10,Pain Relief
+86,2,Ibuprofen,2023-02-25,Pain Relief
+87,45,Lisinopril,2023-04-05,Heart
+88,26,Metformin,2023-01-31,Diabetes
+89,41,Atorvastatin,2023-04-05,Heart
+90,27,Aspirin,2023-03-07,
+91,12,Amoxicillin,2023-04-05,Antibiotic
+92,16,Amoxicillin,2023-01-13,Antibiotic
+93,24,Atorvastatin,2023-02-28,Heart
+94,9,Amoxicillin,2023-03-21,Antibiotic
+95,24,Metformin,2023-01-27,Diabetes
+96,27,Atorvastatin,2023-01-19,Heart
+97,1,Metformin,2023-03-06,Diabetes
+98,7,Aspirin,2023-02-14,
+99,10,Aspirin,2023-02-11,
+100,26,Atorvastatin,2023-01-05,Heart
+101,31,Lisinopril,2023-04-01,Heart
+102,6,Aspirin,2023-04-07,
+103,5,Atorvastatin,2023-03-11,Heart
+104,20,Aspirin,2023-01-17,
+105,5,Lisinopril,2023-01-12,Heart
+106,26,Amoxicillin,2023-02-01,Antibiotic
+107,6,Lisinopril,2023-01-30,Heart
+108,29,Metformin,2023-03-15,Diabetes
+109,5,Lisinopril,2023-03-11,Heart
+110,13,Lisinopril,2023-02-03,Heart
+111,40,Aspirin,2023-04-01,
+112,30,Aspirin,2023-02-13,
+113,50,Amoxicillin,2023-02-12,Antibiotic
+114,10,Aspirin,2023-01-11,
+115,24,Atorvastatin,2023-03-30,Heart
+116,40,Lisinopril,2023-02-20,Heart
+117,12,Aspirin,2023-02-01,
+118,6,Amoxicillin,2023-04-07,Antibiotic
+119,8,Ibuprofen,2023-02-14,Pain Relief
+120,39,Aspirin,2023-03-18,
+121,1,Metformin,2023-03-07,Diabetes
+122,1,Metformin,2023-03-08,Diabetes
+123,8,Atorvastatin,2023-01-25,Heart
+124,8,Atorvastatin,2023-01-26,Heart
+125,15,Ibuprofen,2023-04-08,Pain Relief
+126,15,Ibuprofen,2023-04-09,Pain Relief
+127,22,Aspirin,2023-04-03,
+128,22,Aspirin,2023-04-04,
